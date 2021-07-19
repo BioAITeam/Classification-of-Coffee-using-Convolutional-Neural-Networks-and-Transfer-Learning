@@ -1,1 +1,1 @@
-# Coffee Maturity Classification usingConvolutional Neural Networks andTransfer Learning
+# Coffee Maturity Classification using Convolutional Neural Networks andTransfer Learning
