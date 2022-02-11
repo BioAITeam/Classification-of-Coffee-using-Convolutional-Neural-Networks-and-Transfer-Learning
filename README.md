@@ -1,7 +1,16 @@
 # Coffee Maturity Classification using Convolutional Neural Networks and Transfer Learning
 
 
-This investigation shows the combined use of multispectral image acquisition systems that generatelarge amounts of information about an object, together with convolutional neural networks that allow theextraction  of  information  from  these  images  for  identification  and  classification  processes.  In  this  case,we  present  the  use  of  5  different  neural  networks  reported  in  the  literature  to  present  a  benchmark  inthe  classification  of  cherry  coffee  fruits  according  to  their  ripening  stage.  Using  a  custom-developedmultispectral image acquisition system and comparing different networks through different balancing, itis possible to present an accuracy higher than 98% at the moment of classifying about 600 coffee fruitsin 5 different ripening stages.
+This work shows the combined use of multispectral image acquisition systems that generate
+large amounts of data, together with convolutional neural networks that allow the extraction of information
+from these images for identification and classification processes. In this case, we present the use of 5
+different neural networks reported in the literature to present a benchmark in the classification of cherry
+coffee fruits according to their ripening stage. A dataset released with this work for future research,
+acquired with a custom-developed multispectral image acquisition system, was used. The comparison of
+the different networks through different balances allows presenting an accuracy higher than 98% when
+classifying about 600 coffee fruits in 5 different stages of maturation, and this with the objective of
+providing the farmer with a very high-quality classification model of coffee fruits, providing security and
+a viable method for the classification of coffee, in a more optimized and more accurate way.
 
 ## Folders
 - **training with TL** this folder contains the codes required to perform the training with transfer learning and multispectral images (15 channels), which contains the python file (code_15channels_with_weights.py) in which the experiments will be run and the file (models_classification2.py) that will contain the models, to be called by the main code.
@@ -31,8 +40,14 @@ Universidad Autonoma de Manizales (https://www.autonoma.edu.co/)
 - Manuel Alejandro Tamayo-Monsalve
 - Esteban Mercado
 - Juan Pablo Villa-Pulgarin
+- Mario Alejandro Bravo-Ortiz
 - Harold Brayan Arteaga-Arteaga
+- Alejandro Mora-Rubio
+- Jesus Alejandro Alzate-Grisales
+- Daniel Arias-Garzón 
 - Victor Romero-Cano
+- Simon Orozco-Arias 
+- Gustavo Osorio 
 - Reinel Tabares-Soto
 
 
