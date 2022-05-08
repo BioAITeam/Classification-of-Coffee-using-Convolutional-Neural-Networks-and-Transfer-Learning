@@ -20,7 +20,7 @@ a viable method for the classification of coffee, in a more optimized and more a
 ## Requirements
 This repository requires the following libraries and frameworks:
 
-- TensorFlow 
+- TensorFlow 2.4.1
 - scikit-learn
 - numPy 
 - OpenCV 
