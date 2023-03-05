@@ -38,7 +38,7 @@ This repository was developed in the Python3 (3.9.0) programming language.
 Universidad Autonoma de Manizales (https://www.autonoma.edu.co/)
 
 - MANUEL ALEJANDRO TAMAYO-MONSALVE
-- Esteban Mercado-Ruiz
+- ESTEBAN MERCADO-RUIZ
 - JUAN PABLO VILLA-PULGARIN 
 - MARIO ALEJANDRO BRAVO-ORTÍZ
 - HAROLD BRAYAN ARTEAGA-ARTEAGA 
