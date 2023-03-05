@@ -20,7 +20,7 @@ a viable method for the classification of coffee, in a more optimized and more a
 ## Requirements
 This repository requires the following libraries and frameworks:
 
-- TensorFlow 2.4.1
+- TensorFlow 2.10.0
 - scikit-learn
 - numPy 
 - OpenCV 
@@ -31,35 +31,30 @@ This repository requires the following libraries and frameworks:
 - glob
 
 
-This repository was developed in the Python3 (3.8) programming language.
+This repository was developed in the Python3 (3.9.12) programming language.
 
 
 ## Authors
 Universidad Autonoma de Manizales (https://www.autonoma.edu.co/)
 
-- Manuel Alejandro Tamayo-Monsalve
-- Esteban Mercado
-- Juan Pablo Villa-Pulgarin
-- Mario Alejandro Bravo-Ortiz
+- Mario Alejandro Bravo-Ortiz 
+- Esteban Mercado-Ruiz 
+- Juan Pablo Villa-Pulgarin 
 - Harold Brayan Arteaga-Arteaga
-- Alejandro Mora-Rubio
-- Jesus Alejandro Alzate-Grisales
-- Daniel Arias-Garzón 
-- Victor Romero-Cano
-- Simon Orozco-Arias 
-- Gustavo Osorio 
-- Reinel Tabares-Soto
+- Oscar Cardona
+- Gustavo Isaza
+- Raúl Ramos-Pollán
+- Reinel Tabares-Soto 
+
 
 
 ## References
 
-[1] https://ieeexplore.ieee.org/abstract/document/9755125
+[1] 
 
 
 
-# Database 
-https://zenodo.org/record/4914786
-## 
+
 
 
 
